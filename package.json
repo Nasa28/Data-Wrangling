@@ -1,0 +1,19 @@
+{
+  "name": "data-wrangling",
+  "version": "1.0.0",
+  "description": "This script gets a normalized CSV data file of Road Safety Facts and Figures in the EU from a Wikipedia page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasa28/Data-Wrangling.git"
+  },
+  "author": "Chinasa Agu Kalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nasa28/Data-Wrangling/issues"
+  },
+  "homepage": "https://github.com/Nasa28/Data-Wrangling#readme"
+}
