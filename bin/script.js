@@ -1,11 +1,11 @@
 const fs = require('fs');
 const readLine = require('readline');
-const fetchData = require('./data');
+const fetchData = require('../lib/data');
 const readL = readLine.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-const path = './data.csv';
+const path = './output/data.csv';
 
 if (fs.existsSync(path)) {
   readL.question(
@@ -31,4 +31,5 @@ if (fs.existsSync(path)) {
   });
 } else {
   fetchData();
+  readL.close();
 }
