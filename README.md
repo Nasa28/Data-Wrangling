@@ -42,7 +42,7 @@ npm install
 
 ### How To Use
 
-Run the script using
+Run the script using the command below, the csv file will be generated and data.csv.
 
 ```
     npm start
