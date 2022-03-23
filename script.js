@@ -27,7 +27,7 @@ if (fs.existsSync(path)) {
     },
   );
   readL.on('close', () => {
-    console.log('Goodbye');
+    console.log('Processing...');
   });
 } else {
   fetchData();
