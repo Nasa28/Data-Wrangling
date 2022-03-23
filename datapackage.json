@@ -1,0 +1,16 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "profile": "tabular-data-resource",
+      "schema": {}
+    }
+  ],
+  "keywords": [
+    "Chinasa"
+  ],
+  "name": "my-data",
+  "title": "My Data Package",
+  "description": "This is a set of CSV"
+}
