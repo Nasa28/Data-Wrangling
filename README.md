@@ -15,8 +15,7 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-On your terminal, run
+To get a local copy of this project up and running, on your terminal, run
 
 ```
 git clone git@github.com:Nasa28/Data-Wrangling.git
@@ -42,7 +41,7 @@ npm install
 
 ### How To Use
 
-Run the script using the command below, the csv file will be generated and data.csv.
+Run the script using the command below. This command will generate a  CSV in the root folder as data.csv.
 
 ```
     npm start
