@@ -10,7 +10,7 @@
 1. <a href="#setup">Setup</a>
 1. <a href="#how-to-use">How To Use</a>
 1. <a href="#author">Author</a>
-1. <a href="#contributing">🤝 Contributing</a>
+1. <a href="#contributing">Contributing</a>
 1. <a href="#licence">License</a>
 
 ## Getting Started
