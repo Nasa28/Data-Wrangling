@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nasa28/Data-Wrangling/issues"
   },
-  "homepage": "https://github.com/Nasa28/Data-Wrangling#readme"
+  "homepage": "https://github.com/Nasa28/Data-Wrangling#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
 }
